@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BambiDesktopSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>BambiDesktopSettings</Name>
+  <ShowMessageBoxOnException>false</ShowMessageBoxOnException>
+  <Windows10LockScreenImageDirectory>C:\Users\{USER}\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets</Windows10LockScreenImageDirectory>
+  <UserParameterInImageDirectory>{USER}</UserParameterInImageDirectory>
+  <ImageGalleryDirectory>C:\</ImageGalleryDirectory>
+  <MinimumImageWidth>1920</MinimumImageWidth>
+  <MinimumImageHeight>1080</MinimumImageHeight>
+  <RefreshImageGalleryOnStartup>false</RefreshImageGalleryOnStartup>
+  <ImageFileExtensionToAdd>.jpg</ImageFileExtensionToAdd>
+  <LogToFile>false</LogToFile>
+  <LogToWindowsEventLog>true</LogToWindowsEventLog>
+  <LogToConsole>false</LogToConsole>
+  <LogFileName>Bambi.Log.txt</LogFileName>
+  <EventSourceName>Bambi.Source</EventSourceName>
+  <EventLogName>Bambi.Log</EventLogName>
+  <LoggingLevel>Normal</LoggingLevel>
+</BambiDesktopSettings>
